@@ -1,4 +1,4 @@
-# madlib_game Mad Libs is a word game that involves creating a humorous and often silly story by filling in blanks in a pre-existing sentence or paragraph. The game is usually played with multiple people, and it works like this:
+ Mad Libs is a word game that involves creating a humorous and often silly story by filling in blanks in a pre-existing sentence or paragraph. The game is usually played with multiple people, and it works like this:
 
 1. **Setup:**
    - One person (the "Mad Libs creator") prepares a story but leaves certain key words blank, indicating the type of word needed (e.g., noun, verb, adjective).
